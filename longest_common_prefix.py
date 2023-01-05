@@ -3,4 +3,4 @@ def longestCommonPrefix(self,strs):
     if count ==1:
         return strs[0]
     else:
-        
+        return strs
